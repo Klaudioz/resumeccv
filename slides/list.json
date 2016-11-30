@@ -1,4 +1,27 @@
 [
-    "test.md",
-    "resume.html"
+    "slide1.md",
+    "slide2.md",
+    "slide3.md",
+    [
+	"slide4.md",    
+	"slide4_1.md",
+	"slide4_2.md"
+    ],
+    [
+	"slide5.md",
+	"slide5_1.md",
+	"slide5_2.md",
+	"slide5_3.md"
+    ],
+    [
+	"slide6.md",
+	"slide6_1.md"
+    ],
+    [
+	"slide7.md",
+	"slide7_1.md",
+	"slide7_2.md",
+	"slide7_3.md"
+    ],
+    "slide8.md"
 ]
