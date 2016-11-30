@@ -1,4 +1,4 @@
-# CORE COMPETENCIES
+## CORE COMPETENCIES
 <p align="justify">
 **Languages:** Unix Shell Scripting, Java, C, PL / SQL, PHP, JSP, R, Octave, Python.  
 **Databases:** Oracle 9/10, Sybase IQ, MySQL/MariaDB, PostgreSQL, Pig, Hive, NoSQL, DynamoDB.  

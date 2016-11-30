@@ -1,5 +1,5 @@
-## PROJECTS - PUCV
-#### Rubik's Cube Solve Using Lego Mindstorms Robot 
+### PROJECTS - PUCV
+##### Rubik's Cube Solve Using Lego Mindstorms Robot 
 <p align="justify">
 Used a Bluetooth cellphone connection and Lego robot to solve the Rubik cube - the first of its kind in the world. Applied and adapted the Kociemba algorithm using Visual Studio 2005 and Visual C++.
 </p>
