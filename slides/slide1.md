@@ -5,3 +5,5 @@
 <a href="https://twitter.com/klaudioz"
 alt="Twitter" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/capsocial-square-flat-3/500/twitter-128.png"></a>
 <a href="https://dl.dropboxusercontent.com/s/k9i3x0qkv5uos8c/CANALESClaudio-Resume2P.pdf?dl=0" alt="Resume" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/file-9/32/PDF-128.png"></a>
+
+<a href="http://imgur.com/U7ZTpSB"><img src="http://i.imgur.com/U7ZTpSB.png" title="source: imgur.com" /></a>
