@@ -1,6 +1,5 @@
 ## EXPERIENCE - PAYGROUP (2014-2016)
 <p align="justify">
-Created Docker containers running in AWS.
-Designed and developed automated deployment and scaling processes based on Vagrant and Ansible.
-Having set up Jenkins from scratch, config, scheduling jobs, runnable programs from Jenkins at defined intervals. 
+Collected DevOps new technologies and tools introducing them to the company improving the work efficiency, designed and developed automated deployment and scaling processes based on Vagrant and Ansible and having set up Jenkins from scratch.  
+Deploying, managing, and operating scalable, highly available, and fault tolerant systems on AWS including migration an existing on-premises application to AWS.  
 </p>
