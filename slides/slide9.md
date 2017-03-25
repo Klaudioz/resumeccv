@@ -3,8 +3,6 @@
 <p align="justify">
 Ansible playbook to deploy Tomcat with exceptions managment.
 <p align="center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=AO0CJqnAmII
-" target="_blank"><img src="http://img.youtube.com/vi/AO0CJqnAmII/0.jpg" 
-alt="Ansible role Tomcat" width="480" height="540" border="4" /></a> 
+[![Video](http://img.youtube.com/vi/AO0CJqnAmII/0.jpg)](https://www.youtube.com/watch?v=AO0CJqnAmII)
 </p>
 </p>
